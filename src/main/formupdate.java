@@ -1,3 +1,4 @@
+package main;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -20,7 +21,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.JTextField;
-
 
 import DAO.CustDAO;
 
